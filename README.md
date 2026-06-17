@@ -9,17 +9,11 @@ I'm passionate about Web Development, Desktop Applications, and Software Enginee
 
 ### 🛠️ Skills
 
-<p align="left">
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
-</p>
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend & Database:** Java, PHP, MySQL
+- **Core Concepts:** Computer Graphics, UI/UX Design, Desktop Apps (JavaFX)
 
-*Core Concepts: Computer Graphics, UI/UX Design, Desktop Apps (JavaFX)*
+---
 
 ### 📂 Featured Projects
 
@@ -38,24 +32,18 @@ A desktop simulation project built using Java.
 #### 🔗 [Simple Personal Banking System](https://github.com)
 A secure portal system application built using PHP.
 
-### 📊 GitHub Stats
+---
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+### 📊 Account Metrics & Stats
 
-<p align="left">
-  <img src="https://vercel.app" alt="Most Used Languages" />
-</p>
+- 📈 [Click to view my real-time profile stats](https://vercel.app)
+- 💻 [Click to view my code language ratios](https://vercel.app)
+- 🔥 [Click to check my active daily coding streak](https://demolab.com)
 
-### 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</p>
+---
 
 ### 📬 Connect With Me
 
-- GitHub: https://github.com/Amar-best-coder
+- 💻 GitHub Profile: https://github.com/Amar-best-coder
 
 ⭐️ Thanks for visiting my profile!
