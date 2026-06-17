@@ -40,11 +40,19 @@ A secure portal system application built using PHP.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](./github-metrics.svg)
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" alt="Most Used Languages" />
+</p>
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](./github-streak.svg)
+<p align="left">
+  <img src="https://demolab.com" alt="GitHub Streak" />
+</p>
 
 ### 📬 Connect With Me
 
