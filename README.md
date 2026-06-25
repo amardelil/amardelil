@@ -1,33 +1,34 @@
-<!-- Header Banner (Optional - needs PC to upload image, but you can skip for now) -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Amar-best-coder&fontSize=50&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=amardelil&fontSize=50&fontColor=fff" width="100%"/>
 </p>
 
-<!-- About Me - Centered -->
-<h1 align="center">👋 Hi, I'm Amar</h1>
-<h3 align="center">3rd Year CS Student | Full-Stack & Desktop Developer</h3>
+<!-- Title & Role -->
+<h1 align="center">👋 Hi, I'm Amar Delil</h1>
+<h3 align="center">Frontend Developer & Java Developer</h3>
 
+<!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amar-best-coder&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Amar-best-coder?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=amardelil&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/amardelil?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
-<!-- About Me Section with Icons -->
+<!-- About Me -->
 ### 🧑‍💻 About Me
 
 - 🎓 **3rd Year** Computer Science Student  
-- 💻 **Full-Stack** & **Desktop Application** Developer  
+- 💻 **Frontend Developer** & **Java Developer**  
 - 🎨 Special interest in **Mobile & Desktop App Development**  
-- 🌱 Currently exploring **Advanced Java & UI/UX Design**
+- 🌱 Currently exploring **Advanced Java & UI/UX Design**  
+- 📧 Email: **programmeramardelil21@gmail.com**
 
 ---
 
-<!-- Skills Section with Icons (Clean Columns) -->
+<!-- Skills Section -->
 ### 🛠️ Tech Stack
 
-<!-- Using HTML tables to create columns -->
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -65,15 +66,15 @@
 
 ---
 
-### 📊 GitHub Stats (Live Dashboard)
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amar-best-coder&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-best-coder&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amardelil&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amardelil&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-best-coder&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amardelil&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -81,7 +82,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Amar-best-coder">
+  <a href="https://github.com/amardelil">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
