@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=amardelil&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Frontend Focused) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6A11CB&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Frontend+%26+Java+Developer;Building+clean%2C+responsive+apps;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6A11CB&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Frontend+Developer+%7C+Crafting+Pixel-Perfect+UIs;Responsive+%26+Interactive+Web+Design;Passionate+about+UX%2FUI" alt="Typing SVG" />
 </p>
 
 <!-- Title & Role -->
 <h1 align="center">👋 Hi, I'm Amar Delil</h1>
 <h3 align="center">Frontend Developer & Java Developer</h3>
 
-<!-- Profile Views & Followers (animated badges) -->
+<!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amardelil&label=Profile%20Views&color=6A11CB&style=flat-square&abbreviated=true" alt="profile views" />
   <img src="https://img.shields.io/github/followers/amardelil?label=Followers&style=social" alt="followers" />
@@ -27,47 +27,53 @@
 - 🎓 **3rd Year** Computer Science Student  
 - 💻 **Frontend Developer** & **Java Developer**  
 - 🎨 Special interest in **Mobile & Desktop App Development**  
-- 🌱 Currently exploring **Advanced Java & UI/UX Design**  
+- 🌱 Currently exploring **Advanced UI/UX Design Patterns**  
 - 📧 Email: **programmeramardelil21@gmail.com**
 
 ---
 
-<!-- 🔥 What Can I Do? -->
-### 🚀 What Can I Do?
+<!-- Animated Focus List (What I Do Daily) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=6A11CB&center=true&vCenter=true&width=600&height=60&lines=✨+Building+responsive+websites;🎯+Designing+intuitive+interfaces;⚡+Bringing+ideas+to+life+with+code;📱+Mobile-first+web+experiences" alt="Animated Focus List" />
+</p>
+
+---
+
+<!-- 📸 What I Build (Visual Screenshot Showcase) -->
+### 📸 What I Build
+
+> *Replace the placeholder images below with your actual project screenshots.*
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br />
-      <b>Web Design</b><br />
-      <sub>Responsive & UI</sub>
+    <td align="center" width="300">
+      <img src="https://via.placeholder.com/300x180/6A11CB/FFFFFF?text=Personal+Portfolio" alt="Portfolio Screenshot" width="280" height="160" />
+      <br /><b>🖥️ Personal Portfolio</b>
+      <br /><sub>Modern, responsive design with smooth animations.</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><br />
-      <b>Frontend Dev</b><br />
-      <sub>Interactive SPAs</sub>
+    <td align="center" width="300">
+      <img src="https://via.placeholder.com/300x180/2575FC/FFFFFF?text=Yoga+Coffee" alt="Coffee Shop Screenshot" width="280" height="160" />
+      <br /><b>☕ Yoga Coffee Website</b>
+      <br /><sub>Showcasing regional coffee products with a clean UI.</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><br />
-      <b>Java Apps</b><br />
-      <sub>Desktop & Backend</sub>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://via.placeholder.com/300x180/FF7F50/FFFFFF?text=Salary+Calculator" alt="Calculator Screenshot" width="280" height="160" />
+      <br /><b>💰 Ethiopian Salary Calculator</b>
+      <br /><sub>Localized utility for tax and salary deductions.</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /><br />
-      <b>PHP Solutions</b><br />
-      <sub>Dynamic Websites</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><br />
-      <b>Database</b><br />
-      <sub>Design & Queries</sub>
+    <td align="center" width="300">
+      <img src="https://via.placeholder.com/300x180/4CAF50/FFFFFF?text=Banking+System" alt="Banking Screenshot" width="280" height="160" />
+      <br /><b>🏦 Personal Banking System</b>
+      <br /><sub>Secure PHP portal with transaction management.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- Skills Section -->
+<!-- 🛠️ Tech Stack (Kept as Icons - Distinct from above) -->
 ### 🛠️ Tech Stack
 
 <table align="center">
@@ -95,18 +101,7 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🖥️ **Personal Portfolio** | My personal portfolio website showcasing my design layouts. |
-| ☕ **Yoga Coffee Website** | A web platform created to showcase regional coffee products. |
-| 💰 **Ethiopian Salary Calculator** | A localized utility app for salary deductions and taxes. |
-| 🚦 **Traffic Light Java** | A desktop simulation project built using Java. |
-| 🏦 **Simple Personal Banking System** | A secure portal system built using PHP. |
-
----
-
+<!-- 🏆 GitHub Trophies -->
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -115,6 +110,7 @@
 
 ---
 
+<!-- 📊 GitHub Stats -->
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -128,6 +124,7 @@
 
 ---
 
+<!-- 🤝 Connect With Me -->
 ### 🤝 Connect With Me
 
 <p align="center">
