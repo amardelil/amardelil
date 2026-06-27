@@ -40,6 +40,40 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br />
+        <sub><b>Structure</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />
+        <sub><b>Styling</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" /><br />
+        <sub><b>Logic</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
+        <sub><b>Backend</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br />
+        <sub><b>Scripting</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
+        <sub><b>Data</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
 ### ✨ What I Do
 
 > *"I turn complex ideas into simple, beautiful, and interactive digital realities."*
@@ -100,40 +134,7 @@
 
 ---
 
-### 🛠️ Tech Stack
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br />
-        <sub><b>Structure</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />
-        <sub><b>Styling</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" /><br />
-        <sub><b>Logic</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
-        <sub><b>Backend</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br />
-        <sub><b>Scripting</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
-        <sub><b>Data</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
