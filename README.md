@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=amardelil&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Amardelil&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- MAIN TYPING ANIMATION -->
