@@ -110,7 +110,7 @@
 [![Personal Portfolio](images/portfolio.png)](https://github.com/amardelil/amardelil)
 > Modern, responsive portfolio with smooth animations and interactive elements.
 
-🔗 📂 **[View Code](https://github.com/amardelil/amardelil)**
+🔗 📂 **[View Code](https://github.com/amardelil/amardelil)** | **[live demo](https://personal-portfolio-noyy7psp4-amardelil1.vercel.app/)
 
 ---
 
@@ -125,7 +125,7 @@
 ### 🔹 Ethiopian Salary Calculator
 [![Salary Calculator](images/salary-calculator.png)](https://github.com/amardelil/ethiopian-salary-calculator)
 > Calculate net salary after income tax and pension deductions in Ethiopian Birr.
-🔗 📂 **[View Code](https://github.com/amardelil/ethiopian-salary-calculator)**
+🔗 📂 **[View Code](https://github.com/amardelil/ethiopian-salary-calculator)** 
 
 ---
 
@@ -133,7 +133,7 @@
 [![Hotel Booking](images/hotel-booking.png)](https://github.com/amardelil/hotel-booking)
 > Modern hotel booking system with room reservations, availability checking, and payment integration.
 
-🔗 📂 **[View Code](https://github.com/amardelil/hotel-booking)**
+🔗 📂 **[View Code](https://github.com/amardelil/hotel-booking)** | **[live demo] ( 
 
 ---
 
