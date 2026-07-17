@@ -110,7 +110,7 @@
 [![Personal Portfolio](images/portfolio.png)](https://github.com/amardelil/amardelil)
 > Modern, responsive portfolio with smooth animations and interactive elements.
 
-🔗 📂 **[View Code](https://github.com/amardelil/amardelil)** | **[live demo](https://personal-portfolio-noyy7psp4-amardelil1.vercel.app/)
+🔗 📂 **[View Code](https://github.com/amardelil/amardelil)** | **[live demo](https://personal-portfolio-noyy7psp4-amardelil1.vercel.app/)**
 
 ---
 
@@ -133,7 +133,7 @@
 [![Hotel Booking](images/hotel-booking.png)](https://github.com/amardelil/hotel-booking)
 > Modern hotel booking system with room reservations, availability checking, and payment integration.
 
-🔗 📂 **[View Code](https://github.com/amardelil/hotel-booking)** | **[live demo] ( 
+🔗 📂 **[View Code](https://github.com/amardelil/hotel-booking)** | **[live demo](https://hotel-booking-amber-eta.vercel.app)**
 
 ---
 
