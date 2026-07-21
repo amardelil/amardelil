@@ -107,7 +107,8 @@
 👇
 
 ### 🔹 Personal Portfolio
-[![Personal Portfolio](images/portfolio.png)](https://github.com/amardelil/amardelil)
+[![Personal Portfolio]
+<!-- (images/portfolio.png)](https://github.com/amardelil/amardelil) -->
 > Modern, responsive portfolio with smooth animations and interactive elements.
 
 🔗 📂 **[View Code](https://github.com/amardelil/amardelil)** | **[live demo](https://personal-portfolio-noyy7psp4-amardelil1.vercel.app/)**
@@ -115,7 +116,8 @@
 ---
 
 ### 🔹 Yegna Coffee – Premium Ethiopian Coffee
-[![Yegna Coffee](images/yegna-coffee.png)](https://github.com/amardelil/yegna-coffee)
+[![Yegna Coffee]
+<!-- (images/yegna-coffee.png)](https://github.com/amardelil/yegna-coffee) -->
 > Premium Ethiopian coffee brand landing page with contact form and gallery.
 
 🔗 **[Live Demo](https://amardelil.github.io/yegna-coffee/)** | 📂 **[View Code](https://github.com/amardelil/yegna-coffee)**
@@ -123,14 +125,16 @@
 ---
 
 ### 🔹 Ethiopian Salary Calculator
-[![Salary Calculator](images/salary-calculator.png)](https://github.com/amardelil/ethiopian-salary-calculator)
+[![Salary Calculator]
+<!-- (images/salary-calculator.png)](https://github.com/amardelil/ethiopian-salary-calculator) -->
 > Calculate net salary after income tax and pension deductions in Ethiopian Birr.
 🔗 📂 **[View Code](https://github.com/amardelil/ethiopian-salary-calculator)** 
 
 ---
 
 ### 🔹 Hotel Booking System
-[![Hotel Booking](images/hotel-booking.png)](https://github.com/amardelil/hotel-booking)
+[![Hotel Booking]
+<!-- (images/hotel-booking.png)](https://github.com/amardelil/hotel-booking) -->
 > Modern hotel booking system with room reservations, availability checking, and payment integration.
 
 🔗 📂 **[View Code](https://github.com/amardelil/hotel-booking)** | **[live demo](https://hotel-booking-amber-eta.vercel.app)**
