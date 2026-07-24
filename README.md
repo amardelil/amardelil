@@ -125,6 +125,7 @@
 ### 🔹 Ethiopian Salary Clculator
 <!-- (images/salary-calculator.png)](https://github.com/amardelil/ethiopian-salary-calculator) -->
 > Calculate net salary after income tax and pension deductions in Ethiopian Birr.
+
 🔗 📂 **[View Code](https://github.com/amardelil/ethiopian-salary-calculator)** 
 
 ---
