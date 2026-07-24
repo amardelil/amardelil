@@ -104,7 +104,6 @@
 
 ###🚀 Featured Projects 
 
-👇
 
 ### 🔹 Personal Portfolio
 <!-- (images/portfolio.png)](https://github.com/amardelil/amardelil) -->
