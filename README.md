@@ -130,7 +130,6 @@
 ---
 
 ### 🔹 Hotel Booking System
-[![Hotel Booking]
 <!-- (images/hotel-booking.png)](https://github.com/amardelil/hotel-booking) -->
 > Modern hotel booking system with room reservations, availability checking, and payment integration.
 
