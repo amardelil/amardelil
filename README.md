@@ -124,7 +124,7 @@
 <!-- (images/salary-calculator.png)](https://github.com/amardelil/ethiopian-salary-calculator) -->
 > Calculate net salary after income tax and pension deductions in Ethiopian Birr.
 
-🔗 📂**[Live Demo](https://ethiopian-salary-calculator-o5wod5j9v-amardelili.vercel.app)** | **[View Code](https://github.com/amardeli/ethiopian-salary-calculator)**
+🔗 📂 **[Live Demo](https://ethiopian-salary-calculator-o5wod5j9v-amardelili.vercel.app/)** |📂  **[View Code](https://github.com/amardeli/ethiopian-salary-calculator)**
 ---
 
 ### 🔹 Hotel Booking System
