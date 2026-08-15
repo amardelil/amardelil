@@ -104,7 +104,7 @@
 ###🚀 Featured Projects 
 
 
-### 🔹 Personal Portfolio
+🔹 Personal Portfolio
 <!-- (images/portfolio.png)](https://github.com/amardelil/amardelil) -->
 > Modern, responsive portfolio with smooth animations and interactive elements.
 
@@ -112,7 +112,7 @@
 
 ---
 
-### 🔹 Yegna Coffee – Premium Ethiopian Coffee
+🔹 Yegna Coffee – Premium Ethiopian Coffee
 <!-- (images/yegna-coffee.png)](https://github.com/amardelil/yegna-coffee) -->
 > Premium Ethiopian coffee brand landing page with contact form and gallery.
 
@@ -120,7 +120,7 @@
 
 ---
 
-### 🔹 Ethiopian Salary Clculator
+ 🔹 Ethiopian Salary Clculator
 <!-- (images/salary-calculator.png)](https://github.com/amardelil/ethiopian-salary-calculator) -->
 > Calculate net salary after income tax and pension deductions in Ethiopian Birr.
 
@@ -128,13 +128,17 @@
 
 ---
 
-### 🔹 Hotel Booking System
+🔹 Hotel Booking System
 <!-- (images/hotel-booking.png)](https://github.com/amardelil/hotel-booking) -->
 > Modern hotel booking system with room reservations, availability checking, and payment integration.
 
 🔗📂  **[live demo](https://hotel-booking-amber-eta.vercel.app)** |📂 **[View Code](https://github.com/amardelil/hotel-booking)** 
 
 ---
+
+🔹 Ethiopian Salary Calculator – Ethiopian Payroll Tool
+Simple Ethiopian salary calculator for estimating net salary after income tax and pension deductions.
+🔗 📂 **[Live Demo⁠](https://ethiopian-salary-calculator-sb4r.vercel.app/)** | 📂 View Code⁠�
 
 ### 📊 GitHub Stats
 
