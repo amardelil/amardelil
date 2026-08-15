@@ -138,7 +138,7 @@
 
 🔹 Ethiopian Salary Calculator – Ethiopian Payroll Tool
 Simple Ethiopian salary calculator for estimating net salary after income tax and pension deductions.
-🔗 📂 **[Live Demo⁠](https://ethiopian-salary-calculator-sb4r.vercel.app/)** | 📂 View Code⁠�
+🔗 📂 **[Live Demo⁠](https://ethiopian-salary-calculator-sb4r.vercel.app/)** | 📂 **[View Code⁠](https://github.com/amardelil/ethiopian-salary-calculator)**
 
 ### 📊 GitHub Stats
 
