@@ -101,7 +101,7 @@
 
 ---
 
-###🚀 Featured Projects 
+🚀 Featured Projects 
 
 
 🔹 Personal Portfolio
