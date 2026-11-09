@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Amar Delil</h1>
-<h3 align="center">Frontend Developer & Java Developer</h3>
+<h3 align="center">Fullstack Developer & Java Developer</h3>
 
 <!-- Profile Stats -->
 <p align="center">
